@@ -6,6 +6,7 @@
 领导
 love
 jiangge
+money
 """
 
 # Python strip() 方法用于移除字符串头尾指定的字符（默认为空格）。
