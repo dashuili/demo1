@@ -39,6 +39,7 @@ def main():
         print('Freedom')
     else:
         print('Human Rights')
+        print("sync from local")
 
 
 
